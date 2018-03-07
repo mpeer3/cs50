@@ -1,4 +1,4 @@
-// Copies a BMP file
+// Michael Peer 2018
 
 #include <stdio.h>
 #include <stdlib.h>
